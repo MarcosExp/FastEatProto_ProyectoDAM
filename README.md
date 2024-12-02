@@ -28,4 +28,4 @@
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/FastEatProto_ProyectoDAM.git
+   git clone https://github.com/MarcosExp/FastEatProto_ProyectoDAM.git
